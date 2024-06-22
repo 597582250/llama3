@@ -1,4 +1,4 @@
-torch
+torch=2.12
 fairscale
 fire
 tiktoken==0.4.0
